@@ -2,7 +2,8 @@
 
 This project is based off of a piece of art I recently commissioned to an artist named [Maukeiv](https://twitter.com/Maukeiv), I really loved how it came out, and wanted to "bring it to life" with some JS/CSS.
 
-This project accomplishes that goal by animating squares mid-layer between a background and foreground element like shown below:
+This project accomplishes that goal by animating squares mid-layer between a background and foreground element like shown below: 
+
 ![GIF of project demo](https://raw.githubusercontent.com/PhoenixSheppy/Cavetown-Wallpaper-Project/main/img/wallpaperv2 demo.gif)
 
 All credit for the artwork goes to Maukeiv, go give him a look [here](https://twitter.com/Maukeiv) if you're interested in his work.
